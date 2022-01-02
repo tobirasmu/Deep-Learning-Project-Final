@@ -1,5 +1,11 @@
 # Deep-Learning-Project
-The repository for the Deep Learning Project fall 2021
+The repository for the Deep Learning Project fall 2021. Group members:
+
+ - Sophia Elizabeth Bardenfleth
+ - Nikolaj Normann Holm
+ - Oskar Bohn Lassen
+ - Tobias Engelhardt Rasmussen
+ - Mads Thorstein Roar Henriksen 
 
 ## Project description
 Project article can be found [here](https://www.overleaf.com/project/618948b35ad679e86568307c), the web-page for manually annotating frames can be found [here](https://www.makesense.ai/).
