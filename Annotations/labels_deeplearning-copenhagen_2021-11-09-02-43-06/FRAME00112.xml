@@ -1,0 +1,37 @@
+<annotation>
+	<folder>deeplearning-copenhagen</folder>
+	<filename>FRAME00112.jpg</filename>
+	<path>/deeplearning-copenhagen/FRAME00112.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Cyclist</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>61</ymin>
+			<xmax>96</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>62</ymin>
+			<xmax>77</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>
