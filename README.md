@@ -26,6 +26,7 @@ Project article can be found [here](https://www.overleaf.com/project/618948b35ad
        │   └── config.py                        <- Configurations used in the project (paths, sizes, etc.)
        │
        ├── Data                                 <- Data used in the project (will be .gitignored)
+       ├── keras-yolo3-master                   <- Implementation of YOLOv3 model, with detailed readme file
        ├── Random                               <- Random code / sandbox
        └── README.md                            <- This file
 
